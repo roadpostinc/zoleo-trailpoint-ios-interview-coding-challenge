@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+*.log
+.env
+coverage/
+
+# TrailPoint (Xcode)
+TrailPoint/DerivedData/
+TrailPoint/build/
+TrailPoint/**/xcuserdata/
+TrailPoint/**/*.xcuserstate
+TrailPoint/*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# mock-server
+mock-server/node_modules/
+mock-server/dist/
+mock-server/coverage/
+mock-server/.env
